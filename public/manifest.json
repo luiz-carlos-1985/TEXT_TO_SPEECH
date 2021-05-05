@@ -1,0 +1,8 @@
+{
+  "short_name": "TTS",
+  "name": "APLICAÇÃO TEXT TO STRING",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
