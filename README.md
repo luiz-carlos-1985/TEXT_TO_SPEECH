@@ -3,9 +3,13 @@ Aplicativo que usa node.js e React com Material UI. O usuário pode adicionar um
 Configurando Localmente: Basta criar um arquivo .env no diretório raiz com os seguintes dados:
 
 DB_HOST =
+
 DB_USER =
+
 DB_PASS =
+
 APIKEY =
+
 APIURL =
 
 Executando o projeto: Instale as dependências npm:
