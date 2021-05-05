@@ -9,7 +9,6 @@ DB_USER =
 DB_PASS =
 
 APIKEY =
-
 APIURL =
 
 Executando o projeto: Instale as dependências npm:
@@ -20,4 +19,4 @@ Depois da instalação execute o aplicativo com:
 
 npm start
 
-Será executado o front e o backend ao mesmo tempo! Obrigado!
+Será executado o front e o backend ao mesmo tempo!
