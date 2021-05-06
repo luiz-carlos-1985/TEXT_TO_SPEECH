@@ -1,4 +1,7 @@
-export function up(queryInterface, Sequelize) {
+'use strict';
+
+module.exports = {
+  up: (queryInterface, Sequelize) => {
   return queryInterface.createTable('comments',
     {
       id: {
@@ -21,8 +24,8 @@ export function up(queryInterface, Sequelize) {
       },
     }
   );
-}
-export function down(queryInterface, _Sequelize) {
+},
+down: (queryInterface, Sequelize) => {
 
   return queryInterface.dropTable('comments');
-}
+}}
