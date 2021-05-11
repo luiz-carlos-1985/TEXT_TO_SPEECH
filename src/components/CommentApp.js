@@ -28,7 +28,7 @@ function CommentApp() {
       elevation={0}
     >
       {/* Barra superior */}
-      <AppBar color="primary" position="static" style={{ height: "64px" }}>
+      <AppBar color="secondary" position="static" style={{ height: "64px" }}>
         <Toolbar>
           <Typography color="inherit">APLICAÇÃO TEXT TO SPEECH !</Typography>
         </Toolbar>
