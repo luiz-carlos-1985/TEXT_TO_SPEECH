@@ -31,7 +31,7 @@ export default function Form({ addComment }) {
         {/* Botão para ouvir o audio do texto inserido pelo usuário*/}
         <Button
           variant="contained"
-          color="primary"
+          color="secondary"
           style={{ marginBottom: "1rem" }}
           onClick={(e) => {
             addComment(value);
