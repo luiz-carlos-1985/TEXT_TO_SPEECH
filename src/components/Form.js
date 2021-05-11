@@ -19,7 +19,7 @@ export default function Form({ addComment }) {
         <TextField
           id="outlined-multiline-static"
           multiline
-          rows={6}
+          rows={20}
           variant="outlined"
           value={value}
           onChange={handleChange}
