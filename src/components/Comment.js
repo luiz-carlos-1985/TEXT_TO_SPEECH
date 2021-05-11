@@ -21,7 +21,7 @@ export default function Comment({ text, playComment, isLoading, id }) {
               style={{ marginLeft: "1rem" }}
               variant="contained"
               color="default"
-              size="small"
+              size="large"
               endIcon={<CircularProgress size={18} aria-label="CARREGANDO !!! ..." />}
             >
               Ouvir 
@@ -32,7 +32,7 @@ export default function Comment({ text, playComment, isLoading, id }) {
               style={{ marginLeft: "1rem" }}
               variant="contained"
               color="default"
-              size="small"
+              size="large"
               endIcon={<PlayArrowIcon aria-label="OUVIR" />}
             >
               Ouvir
