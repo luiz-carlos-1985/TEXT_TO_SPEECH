@@ -2,7 +2,7 @@
 import { useState } from "react";
 import axios from "axios";
 
-// Hooks para manejar os comentários e comunicar com a APi.
+// Usando Hooks para manejar os comentários e comunicar com a APi.
 // retorna um objeto {comments, fetchComments, addComment, playComment}
 
 export default () => {
